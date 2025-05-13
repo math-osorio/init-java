@@ -19,7 +19,7 @@ public class scanner {
         int idadeNinja = caixaTexto.nextInt();
         System.out.println("A idade do Ninja é: " + idadeNinja);
 
-        if(idadeNinja > 18){
+        if(idadeNinja >= 18){
             System.out.println("O ninja está pronto para sair na missão");
         } else {
             System.out.println("O ninja ainda é menor de idade e não pode sair numa missão!");
