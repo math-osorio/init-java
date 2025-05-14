@@ -12,7 +12,6 @@ public class Array {
         * Preciso liberar mais espaço na memória se quiser
         * adicionar mais elementos no meu array !!*/
 
-        System.out.println(ninja[3]);
 
 
 
@@ -21,12 +20,8 @@ public class Array {
 
 
 
-        /* String ninja1 = "Naruto";
-        String ninja2 = "Sasuke";
-        String ninja3 = "Sakura";
-        System.out.println(ninja1);
-        System.out.println(ninja2);
-        System.out.println(ninja3); */
+
+
 
 
     }
