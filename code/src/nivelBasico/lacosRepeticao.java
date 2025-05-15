@@ -11,15 +11,15 @@ public class lacosRepeticao {
         int numeroDeClones = 0;
         int numeroMaxDeClones = 40;
 
-        while (numeroDeClones <= numeroMaxDeClones){
+        /*while (numeroDeClones <= numeroMaxDeClones){
             numeroDeClones++;
             System.out.println("O Naruto fez mais um clone das sombras " + numeroDeClones);
 
-        }
+        }*/
 
-        // for
+        // for (fori) - atalho do intellij
         for (int i = 0; i <= numeroMaxDeClones; i++) {
-            System.out.println("Naruto está se clonando e já se clonou " + numeroDeClones + " vezes");
+            System.out.println("Naruto está se clonando e já se clonou " + i + " vezes");
 
         }
 
